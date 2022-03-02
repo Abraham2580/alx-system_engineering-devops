@@ -1,2 +1,2 @@
 #!/bin/bash
-root@0be789aa4816:/alx-system_engineering-devops/0x00-shell_basics# wc -l 0-current_working_directory                                                               
+chmod u+x 0-current_working_directory
