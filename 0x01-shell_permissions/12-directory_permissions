@@ -1,2 +1,2 @@
-#!h/bin/bash
+#!/bin/bash
 mkdir my_dir -m=751
