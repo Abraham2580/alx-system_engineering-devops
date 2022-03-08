@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-find. -type d -not -name '.' | wc -1
-=======
-#!/bin/bash
-find. -type d -not -name '.' | wc -1
->>>>>>> a4398e72577a97766adba60151f1ebea810aaa3c
+find ./* -type d | wc -d
