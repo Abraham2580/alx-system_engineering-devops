@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr : "\n" | wc -1
+find /directory/ -maxdepth 6 -type d -print| wc -l
